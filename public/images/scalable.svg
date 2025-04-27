@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400" height="300" viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="400" height="300" fill="#F8FAFC"/>
+  
+  <!-- Growth Chart -->
+  <path d="M50 250h300M50 50v200" stroke="#E0E7FF" stroke-width="2"/>
+  
+  <!-- Growth Line -->
+  <path d="M50 200 L150 180 L250 140 L350 80" stroke="#4F46E5" stroke-width="4" stroke-linecap="round"/>
+  
+  <!-- Data Points -->
+  <circle cx="150" cy="180" r="8" fill="#818CF8"/>
+  <circle cx="250" cy="140" r="8" fill="#818CF8"/>
+  <circle cx="350" cy="80" r="8" fill="#818CF8"/>
+  
+  <!-- Decorative Elements -->
+  <rect x="100" y="120" width="40" height="40" rx="8" fill="#C7D2FE" opacity="0.3"/>
+  <rect x="200" y="80" width="40" height="40" rx="8" fill="#C7D2FE" opacity="0.3"/>
+  <rect x="300" y="40" width="40" height="40" rx="8" fill="#C7D2FE" opacity="0.3"/>
+  
+  <!-- Connection Lines -->
+  <path d="M140 140l60-40M240 100l60-40" stroke="#6366F1" stroke-width="2" stroke-dasharray="4 4"/>
+</svg> 
